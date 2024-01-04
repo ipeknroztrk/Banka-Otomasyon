@@ -31,7 +31,7 @@ Projeyi çalıştırmadan önce, aşağıdaki adımları izleyerek gerekli kurul
     ```json
     {
       "ConnectionStrings": {
-        "DefaultConnection": "Host=localhost;Port=5432;Database=banka;Username=kullanici;Password=sifre"
+        "DefaultConnection": "Host=localhost;Port=5432;Database=dburun;Username=postgres;Password=sifre"
       }
     }
     ```
